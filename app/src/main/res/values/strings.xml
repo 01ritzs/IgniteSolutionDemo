@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">IgniteSolutionsTest</string>
+    <string name="question1">Q.1 Singleton</string>
+    <string name="question_2">Q.2 Product Flavour</string>
+    <string name="question_3">Q.3 Activity Fragments</string>
+    <string name="question_4">Q.4 Alert Dialog</string>
+    <string name="question_5">Q.5 Services</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_first_fragment">Hello First Fragment</string>
+    <string name="hello_second_fragment">Hello Second Fragment</string>
+    <string name="hello_third_fragment">Hello Third Fragment</string>
+    <string name="hello_fourth_fragment">Hello Fourth Fragment</string>
+    <string name="hello_fifth_fragment">Hello Fifth Fragment</string>
+</resources>
